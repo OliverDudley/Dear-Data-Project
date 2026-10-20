@@ -1,10 +1,15 @@
 class Clock
 {
   int time;
+  float angle;
   color colour;
+  PImage clockFace;
 
   Clock() // Initialises Class
   {
+    rectMode(CORNER);
+    imageMode(CENTER);
+    clockFace = loadImage("ClockFace.png");
     colour   = color(214, 93, 69);
   }
   
@@ -20,17 +25,19 @@ class Clock
   
   void clockArm() 
   {
-    rect(100,95,50,10);
+    //rect(300,305,50,10);
   }
     
   void draw()
   {
-    fill(255);
-    circle(100,100,100);
+    image(clockFace, 300, 300, width, height);
     fill(0);
-    circle(100,100,10);
+    circle(300,300,10);
     fill(colour);
-    clockArm();
+    
+    //translate(100,100);
+    //rotate(radians(45));
+    //clockArm();
   }
     
 
