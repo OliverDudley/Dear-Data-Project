@@ -3,7 +3,7 @@ Clock clock;
 void setup()
 {
   size(600,600);
-  background(0);
+  background(125);
   
   clock = new Clock();
 }
