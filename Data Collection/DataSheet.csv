@@ -1,0 +1,37 @@
+Timestamp,Station,Destination,Line,Reason for journey,How early for journey?,Date
+09/10/2026 17:17:58,London Liverpool st,Rye House,greater anglia,Commuting,13,09/10/2026
+12/10/2026 07:47:57,Rye house,london liverpool st,greater anglia ,Commuting,5,12/10/2026
+12/10/2026 08:36:55,london liverpool st,barbican,metropolitan ,Commuting,5,12/10/2026
+12/10/2026 16:31:48,london liverpool st,Rye house,greater anglia,Commuting,7,12/10/2026
+13/10/2026 07:44:30,Rye house,london liverpool st,greater anglia,Commuting,4,13/10/2026
+13/10/2026 08:36:50,london liverpool st,barbican,Hammersmith & city ,Commuting,3,13/10/2026
+13/10/2026 16:16:29,london liverpool st,Rye house,greater anglia ,Commuting,22,13/10/2026
+13/10/2026 17:47:03,Rye house,Tottenham hale ,greater anglia,Commuting,4,13/10/2026
+15/10/2026 11:58:28,broxbourne ,Tottenham hale,Stratford ,Commuting,13,15/10/2026
+15/10/2026 12:36:18,Tottenham hale,kings cross,victoria,Commuting,0,15/10/2026
+15/10/2026 12:40:17,kings cross,angel,northern,Commuting,6,15/10/2026
+15/10/2026 15:07:23,Farringdon ,london liverpool st,Elizabeth ,Commuting,0,15/10/2026
+15/10/2026 15:17:34,london liverpool st,Rye house,greater anglia,Commuting,21,15/10/2026
+16/10/2026 07:48:33,Rye house,london liverpool st,greater anglia,Commuting,0,16/10/2026
+16/10/2026 08:57:38,london liverpool st,barbican,Hammersmith & city,Commuting,1,16/10/2026
+16/10/2026 17:07:36,barbican,london liverpool st,Hammersmith & city,Commuting,1,16/10/2026
+16/10/2026 17:16:45,london liverpool st,broxbourne ,greater anglia,Commuting,11,16/10/2026
+16/10/2026 17:58:21,broxbourne ,Rye house,greater anglia,Commuting,14,16/10/2026
+19/10/2026 07:58:11,broxbourne ,london liverpool st,greater anglia,Commuting,8,19/10/2026
+19/10/2026 08:35:27,london liverpool st,barbican,Hammersmith and city,Commuting,1,19/10/2026
+19/10/2026 16:15:16,barbican,london liverpool st,Hammersmith & city,Commuting,2,19/10/2026
+19/10/2026 17:02:20,london liverpool st ,broxbourne ,greater anglia,Commuting,4,19/10/2026
+20/10/2026 08:12:27,broxbourne ,london liverpool st,greater anglia,Commuting,4,20/10/2026
+20/10/2026 08:38:01,london liverpool st,barbican,Hammersmith & city,Commuting,2,20/10/2026
+20/10/2026 23:22:56,kings cross,seven sisters,Victoria ,Commuting,4,20/10/2026
+20/10/2026 23:38:24,seven sisters,Tottenham hale,victoria,Commuting,1,20/10/2026
+20/10/2026 23:39:52,Tottenham hale,broxbourne ,greater anglia,Commuting,37,20/10/2026
+27/10/2026 07:45:11,rye house,london liverpool st,greater anglia,Commuting,6,27/10/2026
+27/10/2026 15:17:42,Highbury & Islington ,kings cross,victoria,Commuting,0,27/10/2026
+31/10/2026 08:39:23,rye house,Tottenham hale,greater anglia ,Commuting,9,31/10/2026
+31/10/2026 09:59:46,Tottenham hale,victoria,victoria,Commuting,1,31/10/2026
+31/10/2026 10:40:21,victoria,Tottenham hale,victoria,Commuting,1,31/10/2026
+31/10/2026 11:06:59,Tottenham hale,rye house,broxbourne ,Commuting,3,31/10/2026
+31/10/2026 11:19:22,broxbourne ,rye house,greater anglia ,Commuting,23,31/10/2026
+02/11/2026 07:47:08,rye house,london liverpool st,greater anglia,Commuting,4,02/11/2026
+02/11/2026 12:03:04,london liverpool st,barbican ,Hammersmith and city,Commuting,3,02/11/2026
